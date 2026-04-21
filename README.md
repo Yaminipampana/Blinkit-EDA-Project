@@ -1,5 +1,3 @@
-# Blinkit-EDA-Project
-Exploratory Data Analysis on Blinkit Sales Data using Python
 # 🛒 Blinkit Sales Data Analysis
 
 ## 📌 Objective
